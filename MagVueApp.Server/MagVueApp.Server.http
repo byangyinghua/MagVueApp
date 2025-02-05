@@ -1,0 +1,6 @@
+@MagVueApp.Server_HostAddress = http://localhost:5138
+
+GET {{MagVueApp.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
